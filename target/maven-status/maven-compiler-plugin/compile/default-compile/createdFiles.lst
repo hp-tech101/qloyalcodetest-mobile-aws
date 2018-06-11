@@ -1,0 +1,11 @@
+common\SetCapability_withMain.class
+initialize\Settings.class
+base\TestInit.class
+screens\DashboardScreen.class
+screens\HomeScreen.class
+common\Capability.class
+screens\LoginScreen.class
+base\setCap.class
+tests\FitnessTest.class
+initialize\ConfigReader.class
+screens\LogoutScreen.class
